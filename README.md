@@ -11,10 +11,14 @@ This Python script merges images in a folder into a single banner.
    pip install Pillow
 
 2. **Clone Repository:**
-  git clone https://github.com/meghanandan/multiple-images-to-single-horizontal-banner.git
-  cd multiple-images-to-single-horizontal-banner
 
-3.  **Run Script:**
+   ```bash
+   git clone https://github.com/meghanandan/multiple-images-to-single-horizontal-banner.git
+   cd multiple-images-to-single-horizontal-banner
+
+4.  **Run Script:**
+
+   ```bash
    python imgbanner.py
 
 ## Script Details
