@@ -16,7 +16,7 @@ This Python script merges images in a folder into a single banner.
    git clone https://github.com/meghanandan/multiple-images-to-single-horizontal-banner.git
    cd multiple-images-to-single-horizontal-banner
 
-4.  **Run Script:**
+3.  **Run Script:**
 
    ```bash
    python imgbanner.py
